@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maxim-Titov
-- 👀 I’m interested in coding and playing volleyball
-- 🌱 I’m currently learning web development, Python and Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning web development and Python
 - 📫 How to reach me tutovmaksum01@gmail.com
 
 <!---
